@@ -4,7 +4,9 @@ Ponto A: (x1, y1)
 Ponto B: (x2, y2)
 
 Temos cálculo da diferença entre as coordenadas:
+
 Diferença em X: dx = x2 - x1
+
 Diferença em Y: dy = y2 - y1
 
 Podemos aplicar a formúla e substituir os variáveis como por exemplo:
